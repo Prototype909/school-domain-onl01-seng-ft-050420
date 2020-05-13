@@ -11,8 +11,6 @@ class School
 
 
   def add_student
-    if
-    end
   end
 
   def grade

@@ -10,9 +10,10 @@ class School
   end
 
 
-def add_student
-  if
-end
+  def add_student
+    if
+  end
 
-def grade
+  def grade
+  end
 end

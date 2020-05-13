@@ -1,6 +1,6 @@
 # code here!
 class School
-  def initialized(name)
+  def initialize(name)
     @name = name
     @roster = {}
   end
@@ -8,4 +8,11 @@ class School
   def roster
     @roster
   end
+
+
+def add_student
+  if
+end
+
+def grade
 end
